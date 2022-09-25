@@ -21,6 +21,7 @@
      	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"> 
   <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="shortcut icon" href="https://urania.icu/assets/images/logo/favicon.png" type="image/png">
     <title>CawlyeTrack Cek No Resi Paket</title>
 </head>
 <script>function play(){ var audio = document.getElementById("lagu"); audio.play();}function pause(){ var audio = document.getElementById("lagu"); audio.pause();}</script>
@@ -77,7 +78,7 @@
         <h1>Cawlye | Track</h1>
         <p>CAWLYE 2022</p>
         
-    <marquee behavior="alternate" scrollamount="5%" width="75%"><font size="5px" face="Aleo"><b> <font color="red">INDOX0D3</font><b>Me<font color="red">And U...</font></b></marquee>
+    <marquee behavior="alternate" scrollamount="5%" width="75%"><font size="5px" face="Aleo"><b> <font color="red">Hai kamu semangatt yaaa</font><b>-<font color="red">Have a good day</font></b></marquee>
 </header>
 
     <main>
@@ -88,7 +89,7 @@
                         style="background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%)">
                         <span class="iconify" data-inline="false" data-icon=""></span>
                         <h3>
-                        	<button class="btn" onclick="play()"><font size="6"><span class="fa fa-code"></span> Musik <span class="fa fa-heart-o"></span></font>&nbsp;&nbsp; <audio id="lagu" src="https://l.top4top.io/m_2007aj5u90.mp3"></audio>
+                        	<button class="btn" onclick="play()"><font size="6"><span class="fa fa-code"></span> Music Playlist <span class="fa fa-heart-o"></span></font>&nbsp;&nbsp; <audio id="lagu" src="https://l.top4top.io/m_2007aj5u90.mp3"></audio>
                         </h3>
                     </div>
                 </a>
