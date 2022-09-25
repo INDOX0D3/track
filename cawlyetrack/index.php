@@ -89,7 +89,7 @@
                         style="background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%)">
                         <span class="iconify" data-inline="false" data-icon=""></span>
                         <h3>
-                        	<button class="btn" onclick="play()"><font size="6"><span class="fa fa-code"></span> Music Playlist <span class="fa fa-heart-o"></span></font>&nbsp;&nbsp; <audio id="lagu" src="https://l.top4top.io/m_2007aj5u90.mp3"></audio>
+                        	<button class="btn" onclick="play()"><font size="6"><span class="fa fa-code"></span> Music <span class="fa fa-heart-o"></span></font>&nbsp;&nbsp; <audio id="lagu" src="https://l.top4top.io/m_2007aj5u90.mp3"></audio>
                         </h3>
                     </div>
                 </a>
