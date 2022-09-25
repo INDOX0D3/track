@@ -77,13 +77,13 @@
         <h1>Cawlye | Track</h1>
         <p>CAWLYE 2022</p>
         
-    <marquee behavior="alternate" scrollamount="5%" width="75%"><font size="5px" face="Aleo"><b> <font color="red">INDOX0D3</font><b>./marno-sec<font color="red">And U...</font></b></marquee>
+    <marquee behavior="alternate" scrollamount="5%" width="75%"><font size="5px" face="Aleo"><b> <font color="red">INDOX0D3</font><b>Me<font color="red">And U...</font></b></marquee>
 </header>
 
     <main>
         <section>
             <article>
-                <a href="/">
+                <a href="https://cawlye.github.io/music">
                     <div
                         style="background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%)">
                         <span class="iconify" data-inline="false" data-icon=""></span>
@@ -92,20 +92,20 @@
                         </h3>
                     </div>
                 </a>
-                <a href="https://github.com/tahaluindo/RajaOngkir/tree/main/CekOngkirPro">
+                <a href="https://github.com/cawlye">
                     <div style="background: linear-gradient(58deg, #1f9b95 8%, #3983b4 98%);">
                         <span class="iconify" data-inline="false" data-icon="feather:github"></span>
                         <h3>
-                            Versi PRO
+                            Github Profile
                         </h3>
                     </div>
                 </a>
-                <a href="https://github.com/tahaluindo/RajaOngkir/tree/main/CekOngkirStarter">
+                <a href="https://instagram.com/armnyessir">
                     <div style="  background: rgb(111,139,231);
                     background: linear-gradient(90deg, rgba(111,139,231,1) 0%, rgba(47,41,157,1) 100%);  ">
-                        <span class="iconify" data-inline="false" data-icon="brandico:facebook"></span>
+                        <span class="iconify" data-inline="false" data-icon="brandico:instagram"></span>
                         <h3>
-                            Versi Starter
+                            My instagram Profile
                         </h3>
                     </div>
                 </a>
@@ -126,10 +126,10 @@
 
         <section id="pix">
             <article>
-                <h2><span class="fa fa-bolt"></span> RajaOngkir Tools <span class="fa fa-bolt"></span></h2>
+                <h2><span class="fa fa-bolt"></span> Cawlye Tools <span class="fa fa-bolt"></span></h2>
                 <p>Kontak Kami</p>
-                <h4 id="chave">anonsecteaminc@gmail.com</h4>
-                <button id="copy">Koleksibot</button>
+                <h4 id="chave">@armnyessir</h4>
+                <button id="copy">CAWLYE 2022</button>
             </article>
         </section>
     </main>
